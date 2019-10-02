@@ -7,7 +7,9 @@
 By the end of this, developers should be able to:
 
 - Define an array
+const n = [1, 2, 3,"mesfer", true,["yes", "No"]];
 - Store, access, and update data values in arrays
+n.length;
 - Iterate over items in an array
 
 
